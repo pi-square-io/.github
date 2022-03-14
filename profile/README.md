@@ -1,14 +1,16 @@
-# PISQUARE Cloud & DevOps Experts
+# :cloud: PISQUARE Cloud & DevOps Experts
 
-☁️ :cloud: We help you in every stage of your journey to the cloud by: 
+Hello :wave: ! Our passion is to make amazing things in the cloud ! 
 
-:pizza: Designing and building scalable and reliable cloud infrastructures 
+We help you in every stage of your journey by : 
 
-:pizza: Assessing your current infrastructure and define improvements.
+:heavy_check_mark: Designing and building scalable and reliable cloud infrastructures 
 
-:pizza: Managing cloud infrastructures and ensuring high availabiltiy.
+:heavy_check_mark: Assessing your current infrastructure and define improvements.
 
-:pizza: Defining and executing tailored strategies for your go to cloud journey.
+:heavy_check_mark: Managing cloud infrastructures and ensuring high availabiltiy.
 
-Check our Build, Managed Services, Audit and Migration offers [on our website](https://pisquare.fr/)! 
+:heavy_check_mark: Defining and executing tailored strategies for your go to cloud journey.
+
+:point_right: Check our Build, Managed Services, Audit and Migration offers on our website : https://pisquare.fr/ 
 
