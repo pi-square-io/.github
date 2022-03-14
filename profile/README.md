@@ -1,4 +1,4 @@
-# :cloud: PISQUARE Cloud & DevOps Experts
+# :cloud: Cloud & DevOps Experts
 
 Hello :wave: ! Our passion is to make amazing things in the cloud ! 
 
